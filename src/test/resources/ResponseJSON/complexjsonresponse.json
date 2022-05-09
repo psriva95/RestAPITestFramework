@@ -1,0 +1,41 @@
+{
+    "instructor": "Pooja",
+    "url": "https://abc.com",
+    "services": "Related Testing",
+    "courses": {
+        "webAutomation": [
+            {
+                "courseDetails": "Selenium",
+                "price": 1000
+            },
+            {
+                "courseDetails": "Protractor",
+                "price": 5000
+            }
+        ],
+        "apiAutomation": [
+            {
+                "courseDetails": "Rest Assured",
+                "price": 1000
+            },
+            {
+                "courseDetails": "Soap",
+                "price": 5000
+            }
+        ],
+        "mobileAutomation": [
+            {
+                "courseDetails": "Appium",
+                "price": 1000
+            },
+            {
+                "courseDetails": "tosca",
+                "price": 5000
+            }
+        ]
+    },
+    "expertise": "SDET",
+    "linkedIn": "abc@linkedin.com",
+    "id": "32",
+    "createdAt": "2022-05-07T10:25:33.494Z"
+}
